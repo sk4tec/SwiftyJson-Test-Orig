@@ -1,0 +1,6 @@
+framework module Pods_SwiftyJson_Test_Orig {
+  umbrella header "Pods-SwiftyJson Test Orig-umbrella.h"
+
+  export *
+  module * { export * }
+}
